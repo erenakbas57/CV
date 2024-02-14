@@ -195,7 +195,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  color: var(--orange-yellow-crayola);
+  color: rgb(255,189,93);
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -340,7 +340,7 @@ main {
 }
 
 .info-content .name {
-  color: var(--white-2);
+  color: rgb(255,189,93);
   font-size: var(--fs-3);
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
@@ -447,7 +447,7 @@ main {
 }
 
 .social-item .social-link {
-  color: var(--light-gray-70);
+  color: white;
   font-size: 26px;
 }
 
@@ -484,7 +484,7 @@ main {
 }
 
 .navbar-link {
-  color: var(--light-gray);
+  color: white;
   font-size: var(--fs-8);
   padding: 20px 7px;
   transition: color var(--transition-1);
@@ -493,7 +493,7 @@ main {
 .navbar-link:hover,
 .navbar-link:focus { color: var(--light-gray-70); }
 
-.navbar-link.active { color: var(--orange-yellow-crayola); }
+.navbar-link.active { color: rgb(255,189,93); }
 
 
 

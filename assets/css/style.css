@@ -159,6 +159,9 @@ body { background: var(--smoky-black); }
 
 
 
+.datetime { 
+  color:  #9F9F9F;
+}
 
 
 /*-----------------------------------*\
